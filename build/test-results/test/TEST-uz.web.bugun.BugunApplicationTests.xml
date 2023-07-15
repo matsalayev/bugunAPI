@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uz.web.bugun.BugunApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-15T07:44:12" hostname="THINKBOOK" time="1.061">
+  <properties/>
+  <testcase name="contextLoads()" classname="uz.web.bugun.BugunApplicationTests" time="1.061"/>
+  <system-out><![CDATA[12:44:09.608 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [uz.web.bugun.BugunApplicationTests]: BugunApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:44:09.743 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration uz.web.bugun.BugunApplication for test class uz.web.bugun.BugunApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.1)
+
+2023-07-15T12:44:10.468+05:00  INFO 12088 --- [    Test worker] uz.web.bugun.BugunApplicationTests       : Starting BugunApplicationTests using Java 17.0.7 with PID 12088 (started by Azizbek in D:\Web projects\bugun)
+2023-07-15T12:44:10.472+05:00  INFO 12088 --- [    Test worker] uz.web.bugun.BugunApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2023-07-15T12:44:12.305+05:00  INFO 12088 --- [    Test worker] uz.web.bugun.BugunApplicationTests       : Started BugunApplicationTests in 2.19 seconds (process running for 3.865)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
